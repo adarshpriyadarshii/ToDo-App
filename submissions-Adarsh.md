@@ -22,4 +22,4 @@ Features:
 
 •	You can easily add tasks in your list.
 
-•	When the task is done, you can simply click on that task and it will get erased/delated from the list.
+•	When the task is done, you can simply click on that task and it will get erased/deleted from the list.
