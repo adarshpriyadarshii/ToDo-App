@@ -20,5 +20,6 @@ https://user-images.githubusercontent.com/76248609/111858976-54a81000-8963-11eb-
 
 Features:
 
-•	You can easily add tasks in your list
-•	When the task is done, you can simply click on that task and it will get erased/delated from the list
+•	You can easily add tasks in your list.
+
+•	When the task is done, you can simply click on that task and it will get erased/delated from the list.
